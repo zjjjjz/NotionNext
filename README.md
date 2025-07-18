@@ -1,4 +1,4 @@
-# 帮助教程 2025-0708 long/
+# 帮助教程 2025-0708 long/short
 
 访问帮助：[NotionNext帮助手册](https://docs.tangly1024.com/)
 
