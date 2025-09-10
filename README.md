@@ -53,7 +53,7 @@ https://github.com/craigary" title="Craig Hart">Craig Hart
 
 ## 贡献者
 
-感谢所有为 NotionNext 做出贡献的人！
+致敬每一位开发者！
 
 [![Contributors](https://contrib.rocks/image?repo=tangly1024/NotionNext)](https://github.com/tangly1024/NotionNext/graphs/contributors)
 
