@@ -1,4 +1,4 @@
-# Free Installation and Usage Guide short/long 25.11.11
+# Free Installation and Usage Guide short/long 2025.12.10, nothing, just update the current date.
 
 Click here to access the help documentation: NotionNext Help Manual - (Completely Free)
 
